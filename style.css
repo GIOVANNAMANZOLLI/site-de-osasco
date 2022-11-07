@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+
+#cabecalho{
+    background-color:rgba(72, 200, 139, 1); 
+}
+
+#login{
+    background-color: rgba(72, 200, 139, 1);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+
+}
+
+#img1{
+    width: 200px;
+}
+
+#ok{
+    background-color:rgba(217, 217, 217, 1);
+    width: 200px;
+    height: 100px;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+
+}
+
+#login{
+    width: auto;
+    height: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#redes{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+#cidade{
+    margin-left: 750px;
+}
+
+#trabalho{
+    text-align: center;
+}
+
+#info{
+    background-color:rgba(72, 200, 139, 1) ;
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 550px;
+}
+#social{
+    font-weight: bolder;
+}
+
+#princ{
+    width: 300px;
+}
